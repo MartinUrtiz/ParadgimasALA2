@@ -1,0 +1,8 @@
+# Archivos de compilación
+dist/
+node_modules/
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
